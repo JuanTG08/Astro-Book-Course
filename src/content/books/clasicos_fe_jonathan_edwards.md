@@ -1,7 +1,7 @@
 ---
 title: Clásicos de la Fé - Jonathan Edwards
 author: Jonathan Edwards
-image: clasicos_fe_jhonatan_edwards.jpg
+image: clasicos_fe_jonathan_edwards.jpg
 readtime: 1400
 description: Sí deseas saber los más importantes escritos y atribuciones de Jonathan Edwards; este libro es para TI.
 buy:
